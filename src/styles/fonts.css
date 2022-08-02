@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Monte-Regular';
+	font-style: normal;
+	src: url('./../assets/fonts/Montserrat/static/Montserrat-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'Monte-Bold';
+	font-style:normal;
+	src: url('./../assets/fonts/Montserrat/static/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Monte-Semi';
+	font-style:normal;
+	src: url('./../assets/fonts/Montserrat/static/Montserrat-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'SourceSansPro-Bold';
+	font-style:normal;
+	src: url('./../assets/fonts/Source_Sans_Pro/SourceSansPro-Bold.ttf') format('truetype');
+}

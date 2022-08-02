@@ -1,0 +1,64 @@
+.staked-nft.div-box {
+    position: relative;
+    text-align: center;
+    width: 25%;
+    padding: 20px 20px;
+    height: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.staked-nft.div-box .img-div{
+    position: relative;
+    z-index: 99;
+}
+
+.staked-nft.div-box .img-div img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.staked-nft.div-box .div-detail{
+    position: relative;
+    margin: 0 auto;
+    border-radius: 12px;
+    background: #4b0d7140;
+    margin-top: -30px;
+    padding: 56px 0 42px 0;
+    font-size: 21px;
+    margin-bottom: -70px;
+    height: 270px;
+}
+.staked-nft.div-box .div-detail .current {
+    color: #00FBA9;
+}
+
+.staked-nft.div-box .div-detail .rank {
+    margin-top: 8px;
+    margin-bottom: 10px;
+}
+
+.staked-nft.div-box .div-detail .rewards {
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.staked-nft.div-box .div-detail .solbouncer .span-name {
+    color: #00FBA9;
+}
+
+.staked-nft.div-box .button-div{
+    margin-top: -20px;
+    margin-bottom: 30px;
+    z-index: 1;
+    position: relative;
+    display: flex;
+}
+.staked-nft.div-box .button-div .btn-claim {
+    background-color: rgba(39, 35, 35, 1) !important;
+    box-shadow:rgb(0 251 169) 0.4rem 0.4rem 2px !important;
+    margin: auto !important;
+    font-size: 20px !important;
+    width: 130 !important;
+    height: 60 !important;
+    /* display: flex; */
+}
